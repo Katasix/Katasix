@@ -29,7 +29,6 @@ Udemy kurzy :
 ---
 
 Ostatné informácie
-
 ---
 Pracujem taktiež s :
 - PyCharm (Python3)
