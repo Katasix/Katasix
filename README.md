@@ -3,7 +3,7 @@ Java Backend Developer
 Do tohto GitHub profilu budem pridávať svoje poznatky a skúsenosti. Budú to primárne projekty a komentáre ku nim.
 ---
 
-Kontakt
+Kontakt :
 
 - E-Mail : juraj.mader21@gmail.com
 
