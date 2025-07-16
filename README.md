@@ -15,4 +15,4 @@ Dokončené YouTube tutoriály (Backend) :
 - https://www.youtube.com/watch?v=9oq7Y8n1t00
 ---
 Udemy kurzy :
-<img width="600" height="400" alt="image" src="https://github.com/user-attachments/assets/5423a0d7-1ad6-413a-aceb-d15c609fe732" />
+<img width="800" height="700" alt="image" src="https://github.com/user-attachments/assets/5423a0d7-1ad6-413a-aceb-d15c609fe732" />
