@@ -9,3 +9,10 @@ Pracujem s :
 - PyCharm (Python3)
 - Oracle VM VirtualBox (Linux (Ubuntu))
 ---
+Dokončené YT tutoriály (Backend) :
+- https://www.youtube.com/watch?v=xTtL8E4LzTQ
+- https://www.youtube.com/watch?v=gJrjgg1KVL4
+- https://www.youtube.com/watch?v=9oq7Y8n1t00
+---
+Udemy kurzy :
+<img width="1600" height="1190" alt="image" src="https://github.com/user-attachments/assets/5423a0d7-1ad6-413a-aceb-d15c609fe732" />
