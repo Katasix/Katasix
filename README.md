@@ -6,8 +6,6 @@ V tomto profile sa nachádzajú len tie časti, ktoré mi robia alebo robili pro
 ---
 Pracujem s :
 - IntelliJ IDEA (Java 24.0.1)
-- PyCharm (Python3)
-- Oracle VM VirtualBox (Linux (Ubuntu))
 ---
 Dokončené YouTube tutoriály (Backend) :
 - https://www.youtube.com/watch?v=xTtL8E4LzTQ
@@ -17,3 +15,10 @@ Dokončené YouTube tutoriály (Backend) :
 Udemy kurzy :
 
 <img width="600" height="550" alt="image" src="https://github.com/user-attachments/assets/5423a0d7-1ad6-413a-aceb-d15c609fe732" />
+
+---
+Ostatné informácie :
+
+Pracujem taktiež s :
+- PyCharm (Python3)
+- Oracle VM VirtualBox (Linux (Ubuntu))
