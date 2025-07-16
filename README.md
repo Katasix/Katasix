@@ -17,8 +17,8 @@ Udemy kurzy :
 <img width="600" height="550" alt="image" src="https://github.com/user-attachments/assets/5423a0d7-1ad6-413a-aceb-d15c609fe732" />
 
 ---
-Ostatné informácie :
-
+Ostatné informácie
+---
 Pracujem taktiež s :
 - PyCharm (Python3)
 - Oracle VM VirtualBox (Linux (Ubuntu))
