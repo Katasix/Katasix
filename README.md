@@ -12,7 +12,7 @@ Dokončené YouTube tutoriály (Backend) :
 - https://www.youtube.com/watch?v=gJrjgg1KVL4
 - https://www.youtube.com/watch?v=9oq7Y8n1t00
 ---
-Veľa informácií som sa dozvedel z rôznych stránok a socialných sieti a taktiež od umelej inteligencie a iných aplikácií.
+Množstvo informácií som sa dozvedel z rôznych stránok, socialných sieti, aplikácií, AI... a z toho dôvodu ich sem neuvediem.
 ---
 
 Nižšie budú uvedené iné skúsenosti/vedmosoti
@@ -30,4 +30,5 @@ Pracujem taktiež s :
 ---
 
 Toto README nie je dokončené.
+
 Aktualizácie budú vykonávané po dokončení kurzu/tutoriálu poprípade po pridaní projektu.
