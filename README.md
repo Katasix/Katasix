@@ -5,7 +5,7 @@ Do tohto GitHub profilu budem pridávať svoje poznatky a skúsenosti. Budú to 
 
 Kontakt
 
-E-Mail : juraj.mader21@gmail.com
+- E-Mail : juraj.mader21@gmail.com
 
 ---
 Pracujem s :
